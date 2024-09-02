@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=ecf05e47yfimkzolibyh1t8kegseua6gl4c4eih1ily0wqqt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="150" src="https://algorand.co/hubfs/Website-2024/Typography/algorand-logo-dark.svg"  />
 </div>
 
 ###
