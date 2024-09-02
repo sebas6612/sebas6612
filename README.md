@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Sebas<br><br>- 🔭 I’m working as Gunny's CTO to build a real web3 gaming experience<br>- 📚 I'm currently learning Unity</p>
+<p align="left">I'm Sebas<br><br>- 🔭 I’m Gunny's CTO to build a real web3 gaming experience<br>- 📚 I'm currently learning Unity</p>
 
 ###
 
