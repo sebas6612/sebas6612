@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Sebas<br><br>- 🔭 I’m Gunny's CTO to build a real web3 gaming experience using Algorand Network<br>- 📚 I'm currently learning Unity</p>
+<p align="left">I'm Sebas<br><br>- 🔭 I’m Gunny's Tech Leader to build a real web3 gaming experience using Algorand Network<br>- 📚 I'm currently learning Unity</p>
 
 ###
 
